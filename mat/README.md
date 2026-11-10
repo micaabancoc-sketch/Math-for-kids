@@ -1,0 +1,2 @@
+# mat
+Math For Kids, an interactive online learning platform designed to help learners of all ages improve their basic math skills. The website offers fun activities and engaging practice exercises in addition, subtraction, multiplication, and division. Our mission is to provide an enjoyable and supportive learning environment where everyone can build confidence and strengthen their math abilities through interactive learning
